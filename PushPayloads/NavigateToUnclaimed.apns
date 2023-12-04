@@ -1,0 +1,18 @@
+{
+  "Simulator Target Bundle": "com.rakuten.sample.NavigationSample",
+  "navigateTo": "unclaimed",
+  "aps": {
+    "alert": {
+      "title": "Navigation Sample",
+      "body": "Tap to open deeplink",
+      "launch-image": ""
+    }
+  },
+  "rid": "bgUzDe",
+  "_pnp_reserved": {
+    "request_id": "rmn_app_ios,2517578369999999999,6cee4f08-1a7f-4f2f-bb14-3adcfc624a19"
+  }
+}
+
+
+
